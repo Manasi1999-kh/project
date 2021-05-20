@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(192, 192, 213);
+}
+button{
+    text-align: center;
+    background-color: rgb(116, 116, 143);
+    margin-top: 10%;
+    margin-left: 40%; 
+    color:white;
+}
+.d{
+    background-color: rgb(179, 55, 55);
+    margin-top: 5%;
+}
+#d{
+    text-align: center;
+    color:blueviolet;
+}
+.c{
+    margin-top: 10%;
+    border:cornsilk;
+    width:40%;
+    height:40%;
+    background-color:whitesmoke;
+    margin-left: 20%;
+
+}
+#a{
+    margin-left: 60%;
+    color:blue;
+}
+button:hover{background-color:orange;}
+ /*button:focus{background-color:red;}
